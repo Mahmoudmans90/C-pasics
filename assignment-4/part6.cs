@@ -1,4 +1,4 @@
-namespace Assignment_3
+namespace Assignment_4
 {
     public class part6{
         public static void DisplayPart_6(){

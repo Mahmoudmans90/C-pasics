@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\C-pasics\\assignment-4\\assignment-3.csproj": {}
+    "E:\\C#\\C-pasics\\assignment-5\\assignment-5.csproj": {}
   },
   "projects": {
-    "E:\\C#\\C-pasics\\assignment-4\\assignment-3.csproj": {
+    "E:\\C#\\C-pasics\\assignment-5\\assignment-5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\C-pasics\\assignment-4\\assignment-3.csproj",
-        "projectName": "assignment-3",
-        "projectPath": "E:\\C#\\C-pasics\\assignment-4\\assignment-3.csproj",
+        "projectUniqueName": "E:\\C#\\C-pasics\\assignment-5\\assignment-5.csproj",
+        "projectName": "assignment-5",
+        "projectPath": "E:\\C#\\C-pasics\\assignment-5\\assignment-5.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\C-pasics\\assignment-4\\obj\\",
+        "outputPath": "E:\\C#\\C-pasics\\assignment-5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

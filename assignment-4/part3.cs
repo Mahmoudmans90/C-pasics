@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace Assignment_3 {
+namespace Assignment_4 {
     public class part3
 {
         public static void DisplayPart_3()
