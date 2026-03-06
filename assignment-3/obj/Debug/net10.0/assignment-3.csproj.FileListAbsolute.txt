@@ -1,0 +1,15 @@
+E:\C#\C-pasics\assignment-3\bin\Debug\net10.0\assignment-3.exe
+E:\C#\C-pasics\assignment-3\bin\Debug\net10.0\assignment-3.deps.json
+E:\C#\C-pasics\assignment-3\bin\Debug\net10.0\assignment-3.runtimeconfig.json
+E:\C#\C-pasics\assignment-3\bin\Debug\net10.0\assignment-3.dll
+E:\C#\C-pasics\assignment-3\bin\Debug\net10.0\assignment-3.pdb
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.AssemblyInfoInputs.cache
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.AssemblyInfo.cs
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.csproj.CoreCompileInputs.cache
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.sourcelink.json
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.dll
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\refint\assignment-3.dll
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.pdb
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\assignment-3.genruntimeconfig.cache
+E:\C#\C-pasics\assignment-3\obj\Debug\net10.0\ref\assignment-3.dll
